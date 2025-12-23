@@ -1,0 +1,7 @@
+{
+  "name": "ML Study Buddy AI",
+  "description": "An interactive machine learning study companion that provides personalized study plans, AI-powered tutoring, real-time quizzes, and visual algorithm explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
